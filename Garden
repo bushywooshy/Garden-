@@ -1,6 +1,6 @@
 public class garden {
     public static void main(String[] args) {
-        // Jhann jover
+        // Estacio, Christian T.
         int length, width, area, perimeter;
         // My measurements
         length = 12;   //length in meters
